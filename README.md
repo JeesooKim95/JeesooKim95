@@ -27,11 +27,15 @@ Unity
 <b>Github Stats</b>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeesookim.dev)](https://github.com/anuraghazra/github-readme-stats)
+
 <b>Github Streak</b>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeesookim.dev)](https://git.io/streak-stats)
 
 <a href="http://www.github.com/jeesookim.dev%22%3E<img src="https://activity-graph.herokuapp.com/graph?username=jeesookim.dev&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeesookim.dev)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **JeesooKim95/JeesooKim95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
