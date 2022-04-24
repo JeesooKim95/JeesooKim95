@@ -28,8 +28,6 @@ Unity
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeesooKim95)](https://github.com/anuraghazra/github-readme-stats)
 
-<b>Github Streak</b>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeesooKim95)](https://git.io/streak-stats)
 
 <a href="http://www.github.com/JeesooKim95%22%3E<img src="https://activity-graph.herokuapp.com/graph?username=JeesooKim95&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
