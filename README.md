@@ -18,10 +18,7 @@ Game Developer
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://github.com/steverichey/DockIcons/blob/master/icons/unity.svg" width="36" height="36" alt="Unity" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<!-- 
-OpenGL 
-Unity 
--->
+<a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Opengl-logo.svg" width="72" height="36" alt="OpenGL" /></a>
 </p>
 
 <b>Github Stats</b>
@@ -31,8 +28,6 @@ Unity
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeesooKim95)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JeesooKim95&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<a href="http://www.github.com/JeesooKim95<img src="https://activity-graph.herokuapp.com/graph?username=JeesooKim95&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeesooKim95)](https://github.com/anuraghazra/github-readme-stats)
 
