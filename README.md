@@ -16,7 +16,7 @@ Game Developer
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-black-and-white.png" width="36" height="36" alt="Unity" /></a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" width="36" height="36" alt="Unity" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <!-- 
 OpenGL 
