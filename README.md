@@ -3,13 +3,13 @@
 Game Developer
 -----------------
 
-* 🌍  I'm based in South Korea, currently in US, Redmond WA.
-* 🖥️  See my portfolio at 
+* 🌍  I'm from South Korea.
+* 🖥️  See my portfolio at [Jeesoo Kim](https://jeesookim95.github.io/jeesookim.github.io/)
 * ✉️  You can contact me at [jeesooKim.dev@gmail.com](mailto:jeesooKim.dev@gmail.com)
 * 🚀  I've graduated [Digipen Institute of Technology](https://www.digipen.edu/)
 * 🧠  I'm skilled in C++, Unity, network programming, VR programming
 * 🤝  I'm curruntly looking for a programming job 
-* ⚡  I love games, anime, soccer and VR contents
+* ⚡  I love gaming, coffee, anime, soccer and VR contents
 
 ### Skills
 
